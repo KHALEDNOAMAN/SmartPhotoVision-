@@ -402,7 +402,7 @@ SQLite provides structured persistence for photographs, detected faces, personas
 
 ## 🖥️ Desktop Application Development
 
-**PySide6 provides the graphical interface and application experience.**
+PySide6 provides the graphical interface and application experience.
 
 ## 🧩 Intelligent Organization
 
