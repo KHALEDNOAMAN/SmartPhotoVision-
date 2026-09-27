@@ -221,7 +221,7 @@ Photo scanning and AI-powered face analysis.
 ## 👤 Face Detection
 <p align="center"> <img src="https://github.com/shahidazam2020-oss/SmartPhotoVision-/blob/master/screenshots/Persona%202.PNG" width="900"> </p>
 
-**Detected faces within the analyzed photographs.**
+Detected faces within the analyzed photographs.
 
 ## 🧩 Face Clustering / Personas
 <p align="center"> <img src="https://github.com/shahidazam2020-oss/SmartPhotoVision-/blob/master/screenshots/persona%205.PNG" width="900"> </p>
