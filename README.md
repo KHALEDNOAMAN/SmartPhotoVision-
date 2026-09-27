@@ -394,7 +394,7 @@ Face detection and recognition are integrated directly into the application work
 
 ## 👁️ Computer Vision
 
-**OpenCV provides the underlying computer-vision capabilities for detecting and analyzing faces.**
+OpenCV provides the underlying computer-vision capabilities for detecting and analyzing faces.
 
 ## 🗃️ Database Engineering
 
