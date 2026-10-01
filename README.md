@@ -459,7 +459,7 @@ MIT License
 
 If you find SmartPhotoVision useful or interesting:
 
-## ⭐ Star the repository
+### ⭐ Star the repository
 
 ## 🍴 Fork the project
 
