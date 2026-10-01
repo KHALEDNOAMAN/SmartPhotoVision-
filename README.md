@@ -360,7 +360,7 @@ photo_tags
 
 **No cloud photo-upload workflow is required for the core analysis pipeline.**
 
-Always review the project's actual configuration and dependencies before using it with sensitive photo collections.
+**Always review the project's actual configuration and dependencies before using it with sensitive photo collections.**
 
 # ⚡ Performance & Processing
 
