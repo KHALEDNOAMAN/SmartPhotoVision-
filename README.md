@@ -356,7 +356,7 @@ photo_tags
 
 **SmartPhotoVision is designed as a local desktop application.**
 
-Photo analysis and application data are handled locally through the application's processing and SQLite storage components.
+**Photo analysis and application data are handled locally through the application's processing and SQLite storage components.**
 
 No cloud photo-upload workflow is required for the core analysis pipeline.
 
