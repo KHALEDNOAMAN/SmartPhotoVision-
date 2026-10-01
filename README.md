@@ -535,16 +535,16 @@ SmartPhotoVision/
 <a href="mailto:shahidazam2020@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-</p>
-
----
 <a href="https://github.com/shahidazam2020-oss">
 <img src="https://img.shields.io/badge/💻%20GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 <a href="https://github.com/shahidazam2020-oss?tab=repositories">
 <img src="https://img.shields.io/badge/📂%20Repositories-Explore-blue?style=for-the-badge&logo=github">
 </a>
+</p>
+
+---
+
 # ⭐ Support
 
 If you find this repository useful for learning Machine Learning, consider giving it a ⭐.
