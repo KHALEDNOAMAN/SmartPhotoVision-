@@ -463,7 +463,7 @@ If you find SmartPhotoVision useful or interesting:
 
 ### 🍴 Fork the project
 
-## 🐛 Report issues
+### 🐛 Report issues
 
 ## 💡 Suggest improvements
 
