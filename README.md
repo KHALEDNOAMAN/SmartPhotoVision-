@@ -465,7 +465,7 @@ If you find SmartPhotoVision useful or interesting:
 
 ### 🐛 Report issues
 
-## 💡 Suggest improvements
+### 💡 Suggest improvements
 
 ## 🤝 Contribute
 
