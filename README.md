@@ -71,7 +71,7 @@ The application combines **Artificial Intelligence, Computer Vision, Face Detect
 
 # 🧠 AI & Computer Vision Pipeline
 
-**SmartPhotoVision follows a multi-stage analysis pipeline:**
+SmartPhotoVision follows a multi-stage analysis pipeline:
 
 ```text
                     📁 Photo Folder
