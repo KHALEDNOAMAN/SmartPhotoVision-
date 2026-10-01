@@ -358,7 +358,7 @@ photo_tags
 
 **Photo analysis and application data are handled locally through the application's processing and SQLite storage components.**
 
-No cloud photo-upload workflow is required for the core analysis pipeline.
+**No cloud photo-upload workflow is required for the core analysis pipeline.**
 
 Always review the project's actual configuration and dependencies before using it with sensitive photo collections.
 
