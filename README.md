@@ -71,7 +71,7 @@
 
 # 🧠 AI & Computer Vision Pipeline
 
-SmartPhotoVision follows a multi-stage analysis pipeline:
+**SmartPhotoVision follows a multi-stage analysis pipeline:**
 
 ```text
                     📁 Photo Folder
