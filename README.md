@@ -354,7 +354,7 @@ photo_tags
 ```
 # 🔐 Data & Privacy
 
-SmartPhotoVision is designed as a local desktop application.
+**SmartPhotoVision is designed as a local desktop application.**
 
 Photo analysis and application data are handled locally through the application's processing and SQLite storage components.
 
